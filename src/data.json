@@ -1,0 +1,12 @@
+  
+ {
+    "studentName" : "John Corner",
+    "scores": {
+        "pronunciation" : 7.5,
+        "fluency" : 6.0,
+        "vocabulary": 8.5,
+        "grammar" : 7.0
+    }
+}
+
+
